@@ -1,0 +1,113 @@
+`timescale 1ns/1ps
+
+module spi_integration_tb;
+
+    reg clk;
+    reg reset;
+    reg start;
+
+    reg [7:0] master_data;
+    reg [7:0] slave_data;
+
+    // SPI wires
+    wire mosi;
+    wire miso;
+    wire sclk;
+    wire cs;
+
+    // Master output
+    wire [7:0] master_received;
+    wire master_busy;
+
+    // Slave output
+    wire [7:0] slave_received;
+    wire slave_valid;
+
+    // --------------------------------
+    // SPI MASTER
+    // --------------------------------
+
+    spi_master master (
+        .clk(clk),
+        .reset(reset),
+        .start(start),
+        .data_in(master_data),
+        .miso(miso),
+
+        .mosi(mosi),
+        .sclk(sclk),
+        .cs(cs),
+
+        .data_out(master_received),
+        .busy(master_busy)
+    );
+
+    // --------------------------------
+    // SPI SLAVE
+    // --------------------------------
+
+    spi_slave slave (
+        .sclk(sclk),
+        .reset(reset),
+        .cs(cs),
+        .mosi(mosi),
+
+        .data_in(slave_data),
+        .miso(miso),
+
+        .data_out(slave_received),
+        .data_valid(slave_valid)
+    );
+
+    // --------------------------------
+    // CLOCK
+    // --------------------------------
+
+    always #5 clk = ~clk;
+
+    // --------------------------------
+    // TEST
+    // --------------------------------
+
+    initial begin
+
+        clk = 0;
+        reset = 1;
+        start = 0;
+
+        master_data = 8'b10101010;
+        slave_data  = 8'b00110011;
+
+        #20;
+
+        reset = 0;
+
+        #20;
+
+        // Start SPI transaction
+        start = 1;
+
+        #10;
+
+        start = 0;
+
+        // Wait for transfer
+        wait(master_busy == 0);
+
+        #50;
+
+        $display("================================");
+        $display("SPI INTEGRATION TEST");
+        $display("Master transmitted : %b", master_data);
+        $display("Slave received     : %b", slave_received);
+        $display("Slave transmitted  : %b", slave_data);
+        $display("Master received    : %b", master_received);
+        $display("================================");
+
+        #20;
+
+        $stop;
+
+    end
+
+endmodule

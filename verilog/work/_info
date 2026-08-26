@@ -1,0 +1,2377 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog
+valu
+Z1 !s110 1787731929
+!i10b 1
+!s100 0mGQV7gcRi=LFEgSdWhQU2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IhG5V55_^3iK_GJXAh`]=E2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1787709154
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu.v
+!i122 217
+Z4 L0 1 39
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1787731929.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+valu_tb
+R1
+!i10b 1
+!s100 ?d1ek<`KFC1hM6H@g4;D92
+R2
+IoOibL8InY?Cm3PTIIzfVO1
+R3
+R0
+w1787709162
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu_tb.v
+!i122 218
+Z9 L0 3 62
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/alu_tb.v|
+!i113 1
+R7
+R8
+vbasic_gates
+R1
+!i10b 1
+!s100 ^QQcCKVEi9k63Uh3GWgg12
+R2
+InLmz]T76im[^co7<1dMXd1
+R3
+R0
+w1787157721
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gates.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gates.v
+!i122 220
+L0 1 22
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gates.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gates.v|
+!i113 1
+R7
+R8
+vbasic_gates_tb
+R1
+!i10b 1
+!s100 fW`9CSLf_RJ70V1LH8:@:0
+R2
+IL]]m]UZ:IiKNI25C:>HoV2
+R3
+R0
+w1787157730
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gate_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gate_tb.v
+!i122 219
+Z10 L0 3 52
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gate_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gate_tb.v|
+!i113 1
+R7
+R8
+vbranch_logic
+R1
+!i10b 1
+!s100 [`LFP^E8lZYWaTl0T01<73
+R2
+IO;15S<ToL@YRM:1@=:X370
+R3
+R0
+w1787710511
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic.v
+!i122 221
+L0 1 45
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic.v|
+!i113 1
+R7
+R8
+vbranch_logic_tb
+Z11 !s110 1787731930
+!i10b 1
+!s100 7OBV0C2AK[V3bilk88;f^1
+R2
+I1c`KZ1]W:ICh6>lGMU2Y32
+R3
+R0
+w1787710534
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic_tb.v
+!i122 222
+L0 3 96
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/branch_logic_tb.v|
+!i113 1
+R7
+R8
+vcamera_capture
+R11
+!i10b 1
+!s100 VMgll`CBN_bQl45ePgRS`0
+R2
+IUZVz^eCn;K:HG_6BJ`ZiT0
+R3
+R0
+w1787666823
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture.v
+!i122 223
+Z12 L0 1 51
+R5
+r1
+!s85 0
+31
+Z13 !s108 1787731930.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture.v|
+!i113 1
+R7
+R8
+vcamera_capture_tb
+R11
+!i10b 1
+!s100 h[;OYFe`k=EF?cR19Y86B1
+R2
+I8?clAGNKJbAgEg8B@mJlZ3
+R3
+R0
+w1787666410
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture_tb.v
+!i122 224
+L0 3 90
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_capture_tb.v|
+!i113 1
+R7
+R8
+vcamera_control
+R11
+!i10b 1
+!s100 n4YAfWdZaF<h7<^H_fc=D2
+R2
+IYYR?PIO9OGQjOfLH<?NPc3
+R3
+R0
+w1787661950
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control.v
+!i122 225
+L0 1 115
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control.v|
+!i113 1
+R7
+R8
+vcamera_control_tb
+R11
+!i10b 1
+!s100 YLJ`o8a:k02[nQThVnjn>3
+R2
+Iiz<ABYkG4>8gcfMbbm26X0
+R3
+R0
+w1787661964
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control_tb.v
+!i122 226
+Z14 L0 3 78
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/camera_control_tb.v|
+!i113 1
+R7
+R8
+vclock_divider
+R11
+!i10b 1
+!s100 K;@oG@=T;=Wzf@alTki;n2
+R2
+IZPD[;6zHCm24agJk<zZD^3
+R3
+R0
+w1787284737
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider.v
+!i122 227
+L0 1 25
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider.v|
+!i113 1
+R7
+R8
+vclock_divider_tb
+R11
+!i10b 1
+!s100 :[Zn>gCJ<kPbQ=bNZ@6?V0
+R2
+IRKG?YLGa<mEYA[0j>K]>c1
+R3
+R0
+w1787284764
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider_tb.v
+!i122 228
+L0 3 32
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/clock_divider_tb.v|
+!i113 1
+R7
+R8
+vcomparator
+R11
+!i10b 1
+!s100 fkZdQ?>U4X`Q:EVbK8i[^3
+R2
+I:`UWKc@S4oj@?YVh4kVSl1
+R3
+R0
+w1787163842
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator.v
+!i122 229
+Z15 L0 1 14
+R5
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator.v|
+!i113 1
+R7
+R8
+vcomparator_tb
+Z16 !s110 1787731931
+!i10b 1
+!s100 M6E]<PMWB@<Hc6fbcFRKc0
+R2
+I]37WnY34SYfjIzkd4]8bf3
+R3
+R0
+w1787163856
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator_tb.v
+!i122 230
+Z17 L0 3 54
+R5
+r1
+!s85 0
+31
+Z18 !s108 1787731931.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/comparator_tb.v|
+!i113 1
+R7
+R8
+vcontrol_unit
+R16
+!i10b 1
+!s100 EH4Yz<K6lV;6dd^GVDbUF2
+R2
+IC]k<IWio=AKe8@NzQdMQB3
+R3
+R0
+w1787713586
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit.v
+!i122 231
+L0 1 83
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit.v|
+!i113 1
+R7
+R8
+vcontrol_unit_tb
+R16
+!i10b 1
+!s100 IGfLefV6Hmmbj6cm0SlB10
+R2
+IYA<D0E=OZPz99EB[l;^>b0
+R3
+R0
+w1787460399
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit_tb.v
+!i122 232
+Z19 L0 3 48
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/control_unit_tb.v|
+!i113 1
+R7
+R8
+vcounter
+R16
+!i10b 1
+!s100 hOedg0o=QF`;7;ijj^B?S3
+R2
+IChBh;g?k[`nOQcL9G973a2
+R3
+R0
+w1787167007
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter.v
+!i122 233
+R15
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter.v|
+!i113 1
+R7
+R8
+vcounter_tb
+R16
+!i10b 1
+!s100 0n0X>B<_RZmLFn50;;^Ni3
+R2
+I6dG[EfTP[WZaVn>AmeZh?2
+R3
+R0
+w1787167610
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter_tb.v
+!i122 234
+L0 3 39
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/counter_tb.v|
+!i113 1
+R7
+R8
+vd_ff
+R16
+!i10b 1
+!s100 N^?CnASQU_QjX2E;gTz<?2
+R2
+IS5an`LE;T[NMD4?m78VRM3
+R3
+R0
+w1787165547
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff.v
+!i122 235
+L0 1 11
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff.v|
+!i113 1
+R7
+R8
+vd_ff_tb
+R16
+!i10b 1
+!s100 jOa_UoTm@S5@2hcbo4=JL3
+R2
+I=D6fD53PRz[PHadUSATF`0
+R3
+R0
+w1787164940
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff_tb.v
+!i122 236
+R19
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/d_ff_tb.v|
+!i113 1
+R7
+R8
+vdata_memory
+R16
+!i10b 1
+!s100 jaPJN=@h;VXC?DZ6Jg?oL2
+R2
+IU=?jGI@C9Q]=3iN[_4][T0
+R3
+R0
+w1787710284
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory.v
+!i122 237
+R12
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory.v|
+!i113 1
+R7
+R8
+vdata_memory_tb
+R16
+!i10b 1
+!s100 dM=[:QlJeRbaQjCY6<DPd2
+R2
+IXUa0f6cOGY7P[ARhDHG8H1
+R3
+R0
+w1787710297
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory_tb.v
+!i122 238
+L0 3 103
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/data_memory_tb.v|
+!i113 1
+R7
+R8
+vdecoder
+Z20 !s110 1787731932
+!i10b 1
+!s100 LYJH6GYok_8jihjN55Qik2
+R2
+IReeIa3FYIR]j68<c8]<E00
+R3
+R0
+w1787163164
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder.v
+!i122 239
+Z21 L0 1 15
+R5
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder.v|
+!i113 1
+R7
+R8
+vdecoder_tb
+R20
+!i10b 1
+!s100 Wb]Od0XI9IOFmGR_JD@lB1
+R2
+I0A5^SlFO7a0]mbB=d<]9X3
+R3
+R0
+w1787163181
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder_tb.v
+!i122 240
+Z22 L0 3 46
+R5
+r1
+!s85 0
+31
+Z23 !s108 1787731932.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/decoder_tb.v|
+!i113 1
+R7
+R8
+vdefect_detector
+R20
+!i10b 1
+!s100 i@MC8OI<W93QPb7MO89X81
+R2
+II@jl[_UJmzmhGS[1jNWlE0
+R3
+R0
+w1787678174
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector.v
+!i122 241
+L0 1 35
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector.v|
+!i113 1
+R7
+R8
+vdefect_detector_tb
+R20
+!i10b 1
+!s100 MZj0:j0Oki54QHWo29K=12
+R2
+I3Ale25@MYM9nE[?_@9QXc3
+R3
+R0
+w1787678189
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector_tb.v
+!i122 242
+L0 3 71
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_detector_tb.v|
+!i113 1
+R7
+R8
+vdefect_status_register
+R20
+!i10b 1
+!s100 Y^j6k5OGUM3:gTRcPaem;3
+R2
+I7]lNiQKg9d?3g>>Ve^A]d2
+R3
+R0
+w1787679327
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register.v
+!i122 243
+R4
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register.v|
+!i113 1
+R7
+R8
+vdefect_status_register_tb
+R20
+!i10b 1
+!s100 T>UjD:>37m`dF@X5Di=ZK1
+R2
+Il>`2NCNj03:VBCBQL3:HC0
+R3
+R0
+w1787679342
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register_tb.v
+!i122 244
+Z24 L0 3 68
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/defect_status_register_tb.v|
+!i113 1
+R7
+R8
+vframe_buffer
+R20
+!i10b 1
+!s100 4fH>KkG4KMaQTU8Q01Dl]1
+R2
+I0ZINM[V<IHjdj<IFd7mG81
+R3
+R0
+w1787675239
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer.v
+!i122 245
+L0 1 69
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer.v|
+!i113 1
+R7
+R8
+vframe_buffer_tb
+R20
+!i10b 1
+!s100 Re0LZT?O;Y=78enE5?DVJ0
+R2
+I5iYzSZlNIZQ^[]PckbaY51
+R3
+R0
+w1787675252
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer_tb.v
+!i122 246
+L0 3 172
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/frame_buffer_tb.v|
+!i113 1
+R7
+R8
+vfsm
+Z25 !s110 1787731933
+!i10b 1
+!s100 83K;o2iF:?U66iY_PWR^;1
+R2
+Inae@6XlQU<CT1]U@J8EHI0
+R3
+R0
+w1787284121
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm.v
+!i122 247
+Z26 L0 1 63
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm.v|
+!i113 1
+R7
+R8
+vfsm_tb
+R25
+!i10b 1
+!s100 3RfM[a3OBL<]`M?JEnfJJ3
+R2
+I>2C^B_7MaDB;PfaF:h<3`2
+R3
+R0
+w1787284139
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm_tb.v
+!i122 248
+L0 3 53
+R5
+r1
+!s85 0
+31
+Z27 !s108 1787731933.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/fsm_tb.v|
+!i113 1
+R7
+R8
+vgradient_magnitude
+R25
+!i10b 1
+!s100 Jnn2_ZR6I]B]@VB8hIFPZ3
+R2
+ILSTGTiWohSbNPP34XIVFL1
+R3
+R0
+w1787677596
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude.v
+!i122 249
+L0 1 30
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude.v|
+!i113 1
+R7
+R8
+vgradient_magnitude_tb
+R25
+!i10b 1
+!s100 8S61UF5Db]4UoK:P1NEEf1
+R2
+I9Yci=LJUCN3?=?@?5HlO;2
+R3
+R0
+w1787677632
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude_tb.v
+!i122 250
+Z28 L0 3 56
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/gradient_magnitude_tb.v|
+!i113 1
+R7
+R8
+vgrayscale_converter
+R25
+!i10b 1
+!s100 SL8;9d=7I:d?3IC<<Lm4_3
+R2
+I^82We9M9OTRD2OKK7FLLn1
+R3
+R0
+w1787676386
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter.v
+!i122 251
+L0 1 23
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter.v|
+!i113 1
+R7
+R8
+vgrayscale_converter_tb
+R25
+!i10b 1
+!s100 =j78Pe9D?:I_okzN98Od@1
+R2
+ISHN_LKFUa=NTl5G3]ZkZ;0
+R3
+R0
+w1787676433
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter_tb.v
+!i122 252
+L0 3 45
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/grayscale_converter_tb.v|
+!i113 1
+R7
+R8
+vi2c_controller
+R25
+!i10b 1
+!s100 M1^0LHS1`k8TZL8ZhaF`V3
+R2
+IZjJ4liY[hBC4F[`jGP^Pa1
+R3
+R0
+w1787661205
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller.v
+!i122 253
+L0 1 38
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller.v|
+!i113 1
+R7
+R8
+vi2c_controller_tb
+R25
+!i10b 1
+!s100 Dgc1MF1`BMCFAP;9_CDCd3
+R2
+IkZ<4o:hdUd^oQgAhIJka23
+R3
+R0
+w1787661221
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller_tb.v
+!i122 254
+L0 3 70
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_controller_tb.v|
+!i113 1
+R7
+R8
+vi2c_master
+Z29 !s110 1787731934
+!i10b 1
+!s100 6JL1:oR>n`2[W<>c1bjGH0
+R2
+IPGd[F[TYfmzR0EMY@DZ3O1
+R3
+R0
+w1787660705
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master.v
+!i122 255
+L0 1 206
+R5
+r1
+!s85 0
+31
+R27
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master.v|
+!i113 1
+R7
+R8
+vi2c_master_tb
+R29
+!i10b 1
+!s100 ej?<53AzAiaahfS;0z[fJ2
+R2
+INEkUQ`AMb>i;E7cJm:Q091
+R3
+R0
+w1787660830
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master_tb.v
+!i122 256
+L0 3 72
+R5
+r1
+!s85 0
+31
+Z30 !s108 1787731934.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master_tb.v|
+!i113 1
+R7
+R8
+vimage_inspection_subsystem
+R29
+!i10b 1
+!s100 T<kR9Z3D=N;QFAc0=j<dS1
+R2
+Ib75FQXFC=:@[jz2FjTSgG3
+R3
+R0
+w1787725894
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem.v
+!i122 257
+L0 1 227
+R5
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem.v|
+!i113 1
+R7
+R8
+vimage_inspection_subsystem_tb
+R29
+!i10b 1
+!s100 7[7jmf`ZUU@3S:CY0@>P;1
+R2
+I9h<EV<S2OZR4Cz]jR3H[V2
+R3
+R0
+w1787725943
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem_tb.v
+!i122 258
+L0 3 201
+R5
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_inspection_subsystem_tb.v|
+!i113 1
+R7
+R8
+vimage_processing_integration
+R29
+!i10b 1
+!s100 SSj@fBj97cV95IZ7AD4fA2
+R2
+IkKSAZRR6:2BmF`bHoV[CT2
+R3
+R0
+w1787725150
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_integration_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_integration_tb.v
+!i122 260
+L0 1 55
+R5
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_integration_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_integration_tb.v|
+!i113 1
+R7
+R8
+vimage_processing_pipeline
+R29
+!i10b 1
+!s100 YAJ=fjg<kXm;TDYBVGgg>1
+R2
+I[<96Q;NVS?c6XBj3<UUQ`3
+R3
+R0
+w1787678573
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline.v
+!i122 261
+L0 1 148
+R5
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline.v|
+!i113 1
+R7
+R8
+vimage_processing_pipeline_tb
+R29
+!i10b 1
+!s100 3_FE9P^zgU`bnTLklaGjZ1
+R2
+IIZH7DkzG3D^jZiKDSR0HU3
+R3
+R0
+w1787678569
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline_tb.v
+!i122 262
+L0 3 187
+R5
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_processing_pipeline_tb.v|
+!i113 1
+R7
+R8
+vimage_window_controller
+Z31 !s110 1787731935
+!i10b 1
+!s100 1f3jSHK3g[@dT_OHIed_D2
+R2
+IVZI]R0hENHmZ7?A9AX]o93
+R3
+R0
+w1787724637
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller.v
+!i122 263
+L0 1 196
+R5
+r1
+!s85 0
+31
+R30
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller.v|
+!i113 1
+R7
+R8
+vimage_window_controller_tb
+R31
+!i10b 1
+!s100 Hg2S3lhgDRjeXa[Zh5S:20
+R2
+IhZII=f:;:;zf5BiVP2N1j2
+R3
+R0
+w1787724686
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller_tb.v
+!i122 264
+L0 3 188
+R5
+r1
+!s85 0
+31
+Z32 !s108 1787731935.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/image_window_controller_tb.v|
+!i113 1
+R7
+R8
+vimmediate_generator
+R31
+!i10b 1
+!s100 oL36MGoeg:?U5e`cG0zXd1
+R2
+I0@B7KBLn7XeYgYjg5HLN]0
+R3
+R0
+w1787709362
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator.v
+!i122 265
+R26
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator.v|
+!i113 1
+R7
+R8
+vimmediate_generator_tb
+R31
+!i10b 1
+!s100 [AT81VE_VcWBMU67mZ<XW3
+R2
+ISo:?kZSRL3M<07;Me4mIB1
+R3
+R0
+w1787709376
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator_tb.v
+!i122 266
+R14
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/immediate_generator_tb.v|
+!i113 1
+R7
+R8
+vinstruction_decoder
+R31
+!i10b 1
+!s100 b@MDL3fK?GAaYXAEj6TCc2
+R2
+IH5cj@oghA<8OCGCSJ[^P40
+R3
+R0
+w1787680453
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder.v
+!i122 267
+Z33 L0 1 28
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder.v|
+!i113 1
+R7
+R8
+vinstruction_decoder_tb
+R31
+!i10b 1
+!s100 ;zVdX6R^U2Z;0[G@cC@h21
+R2
+Il>z[=ADf::^ZW573S7mKM0
+R3
+R0
+w1787680465
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder_tb.v
+!i122 268
+R19
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_decoder_tb.v|
+!i113 1
+R7
+R8
+vinstruction_memory
+R31
+!i10b 1
+!s100 ^;2Pg>L@BaD1aFYR`56[72
+R2
+I[;UoABK>]9?GhWYMRQ3DH3
+R3
+R0
+w1787680229
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory.v
+!i122 269
+Z34 L0 1 43
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory.v|
+!i113 1
+R7
+R8
+vinstruction_memory_tb
+R31
+!i10b 1
+!s100 iKk<S8JNk[Cf2FM=[5ZRd2
+R2
+I86;J=PKhl6_Z_Y3FLASoh3
+R3
+R0
+w1787680243
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory_tb.v
+!i122 270
+L0 3 42
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/instruction_memory_tb.v|
+!i113 1
+R7
+R8
+vmemory_mapped_io
+R31
+!i10b 1
+!s100 ZDT0OH1K0Y=N435ggJXNS3
+R2
+IVgN09DP:==Eo=E74`@7J12
+R3
+R0
+w1787679526
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io.v
+!i122 271
+Z35 L0 1 27
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io.v|
+!i113 1
+R7
+R8
+vmemory_mapped_io_tb
+Z36 !s110 1787731936
+!i10b 1
+!s100 S=QEI2]NhcES:kJ:a11[D3
+R2
+Iz9:;9_P3o;]JR]fGOiS4;0
+R3
+R0
+w1787679538
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io_tb.v
+!i122 272
+R17
+R5
+r1
+!s85 0
+31
+Z37 !s108 1787731936.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/memory_mapped_io_tb.v|
+!i113 1
+R7
+R8
+vmmio_interface
+R36
+!i10b 1
+!s100 ]1[cJOHQ[8X_iAoTfJBk50
+R2
+IMPa[>jCIZDiBN`f412oO50
+R3
+R0
+w1787714016
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface.v
+!i122 273
+L0 1 36
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface.v|
+!i113 1
+R7
+R8
+vmmio_interface_tb
+R36
+!i10b 1
+!s100 j_I4e2b<_1T@ROM:IEB:f3
+R2
+IN:BOe=::WNFT3g6Fg6Aa33
+R3
+R0
+w1787714024
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface_tb.v
+!i122 274
+Z38 L0 3 73
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mmio_interface_tb.v|
+!i113 1
+R7
+R8
+vmux
+R36
+!i10b 1
+!s100 7@SUYFJ^[bfk6f5bCYiGL3
+R2
+IfdaWLF4YfiJAoX3n6m5I?2
+R3
+R0
+w1787161828
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux.v
+!i122 275
+L0 1 10
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux.v|
+!i113 1
+R7
+R8
+vmux_tb
+R36
+!i10b 1
+!s100 zh@XnD>=XXjZSC:DPfWKm2
+R2
+IMcL2gObD3SG9g`_S[NhUJ0
+R3
+R0
+w1787167761
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux_tb.v
+!i122 276
+R22
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/mux_tb.v|
+!i113 1
+R7
+R8
+vpc_next_logic
+R36
+!i10b 1
+!s100 6XPHcZ62GIM2LK^^W2zfS1
+R2
+I4UlE`MOfKd[ddB>HzJ<fZ1
+R3
+R0
+w1787710741
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic.v
+!i122 277
+Z39 L0 1 20
+R5
+r1
+!s85 0
+31
+R37
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic.v|
+!i113 1
+R7
+R8
+vpc_next_logic_tb
+!s110 1787731937
+!i10b 1
+!s100 ^1JDQ^@U4R^P]D6<08I;71
+R2
+Ig5;0eCZ>Dg67E38U9L=z=0
+R3
+R0
+w1787710751
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic_tb.v
+!i122 278
+R38
+R5
+r1
+!s85 0
+31
+!s108 1787731937.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pc_next_logic_tb.v|
+!i113 1
+R7
+R8
+vpixel_clock_handler
+Z40 !s110 1787731463
+!i10b 1
+!s100 ILR;J_UjSi=TFH?0[ZWi_0
+R2
+I8B8?F67Xl046UW14ETHTj0
+R3
+R0
+w1787668055
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler.v
+!i122 171
+R35
+R5
+r1
+!s85 0
+31
+Z41 !s108 1787731463.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler.v|
+!i113 1
+R7
+R8
+vpixel_clock_handler_tb
+R40
+!i10b 1
+!s100 dEADl?:4_`hQkSj^?d0lR1
+R2
+I7amU_Ec9[5iRZKmIW8NZ<2
+R3
+R0
+w1787668072
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler_tb.v
+!i122 172
+R9
+R5
+r1
+!s85 0
+31
+R41
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_clock_handler_tb.v|
+!i113 1
+R7
+R8
+vpixel_counter
+R40
+!i10b 1
+!s100 ]9D?@Z6aJ^1]bGkY[?R;]2
+R2
+I6FAzW61zX<mE5UAGTi@j?2
+R3
+R0
+w1787670384
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter.v
+!i122 173
+L0 1 61
+R5
+r1
+!s85 0
+31
+R41
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter.v|
+!i113 1
+R7
+R8
+vpixel_counter_tb
+R40
+!i10b 1
+!s100 ;2X3;Cj^Dfzh_g>z:zakQ0
+R2
+IIl7Vlol>RTQMD[B6zj[Yj3
+R3
+R0
+w1787671690
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter_tb.v
+!i122 174
+L0 3 122
+R5
+r1
+!s85 0
+31
+R41
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/pixel_counter_tb.v|
+!i113 1
+R7
+R8
+vprogram_counter
+Z42 !s110 1787731464
+!i10b 1
+!s100 ;5GmXz`?[47Nz?==4<R^33
+R2
+INAJ:MRg2[b[HaQDVY[HSZ0
+R3
+R0
+w1787712605
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter.v
+!i122 175
+R21
+R5
+r1
+!s85 0
+31
+Z43 !s108 1787731464.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter.v|
+!i113 1
+R7
+R8
+vprogram_counter_tb
+R42
+!i10b 1
+!s100 3eYNQ3;5khTj[S45gN6RC2
+R2
+I=:]?]QO<j<zfDLjWI<aKd1
+R3
+R0
+w1787680033
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter_tb.v
+!i122 176
+L0 3 34
+R5
+r1
+!s85 0
+31
+R43
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/program_counter_tb.v|
+!i113 1
+R7
+R8
+vregister_file
+R42
+!i10b 1
+!s100 =lKeFJHMLj9YXT@>n2Lm=0
+R2
+II]:5Q05z5YJaW;QkKOim73
+R3
+R0
+w1787707279
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file.v
+!i122 178
+L0 1 50
+R5
+r1
+!s85 0
+31
+R43
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file.v|
+!i113 1
+R7
+R8
+vregister_file_tb
+R42
+!i10b 1
+!s100 G32z:e^Nc3g7:[mXzUBS?2
+R2
+IeZ42Y1m;i9FhY_Qz^XgIn1
+R3
+R0
+w1787708955
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file_tb.v
+!i122 179
+L0 3 115
+R5
+r1
+!s85 0
+31
+R43
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_file_tb.v|
+!i113 1
+R7
+R8
+vregister_tb
+R42
+!i10b 1
+!s100 4@d441EAlBng_^Ja2T>c32
+R2
+I;Ihj[V1z92nDf7AJC=Yo]0
+R3
+R0
+w1787708920
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_tb.v
+!i122 180
+R10
+R5
+r1
+!s85 0
+31
+R43
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/register_tb.v|
+!i113 1
+R7
+R8
+vriscv_core
+Z44 !s110 1787731573
+!i10b 1
+!s100 P05<4ZV6N9blaIbVDofo[3
+R2
+IlLCH7=WB7K4DK9=Qg;4gl3
+R3
+R0
+w1787716972
+8riscv_core.v
+Friscv_core.v
+!i122 214
+L0 1 282
+R5
+r1
+!s85 0
+31
+Z45 !s108 1787731573.000000
+!s107 riscv_core.v|
+!s90 -reportprogress|300|riscv_core.v|
+!i113 1
+R8
+vriscv_core_tb
+Z46 !s110 1787731465
+!i10b 1
+!s100 8?>02RNC17K1]]P?l3ck73
+R2
+I><AJ]ZX52<c?n2j9;]BXP3
+R3
+R0
+w1787717075
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/riscv_core_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/riscv_core_tb.v
+!i122 182
+L0 3 41
+R5
+r1
+!s85 0
+31
+Z47 !s108 1787731465.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/riscv_core_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/riscv_core_tb.v|
+!i113 1
+R7
+R8
+vshift_register
+R46
+!i10b 1
+!s100 HHEbM6J[G2@k`8]R7RY_H0
+R2
+IF76h^H6TVo[Z92@GjgGok0
+R3
+R0
+w1787277929
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register.v
+!i122 183
+R21
+R5
+r1
+!s85 0
+31
+R47
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register.v|
+!i113 1
+R7
+R8
+vshift_register_tb
+R46
+!i10b 1
+!s100 lz0EIm^9[2=hCCo@SJNQF1
+R2
+IJjWSmlc>Cd>kDVomM_6oC0
+R3
+R0
+w1787277955
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register_tb.v
+!i122 184
+R10
+R5
+r1
+!s85 0
+31
+R47
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/shift_register_tb.v|
+!i113 1
+R7
+R8
+vsimple_ram
+R46
+!i10b 1
+!s100 HI?b9?I`i5@Dl@6>Gd3701
+R2
+I4B[Y1lC^`gdCLI;_ABoX72
+R3
+R0
+w1787332306
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram.v
+!i122 185
+R39
+R5
+r1
+!s85 0
+31
+R47
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram.v|
+!i113 1
+R7
+R8
+vsimple_ram_tb
+Z48 !s110 1787731466
+!i10b 1
+!s100 ozXf6TUCZ7_f2FM?QTBif0
+R2
+I1zh;?S@`E>z[EFLzcJV?E1
+R3
+R0
+w1787332310
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram_tb.v
+!i122 186
+R28
+R5
+r1
+!s85 0
+31
+R47
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/simple_ram_tb.v|
+!i113 1
+R7
+R8
+vsliding_window_3x3
+R48
+!i10b 1
+!s100 dZkS0oiPVJj8=He96S`QT2
+R2
+IV1NV`PU?okHB;@CaoJ_`>0
+R3
+R0
+w1787676719
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3.v
+!i122 187
+R34
+R5
+r1
+!s85 0
+31
+Z49 !s108 1787731466.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3.v|
+!i113 1
+R7
+R8
+vsliding_window_3x3_tb
+R48
+!i10b 1
+!s100 0:fbD`:S6:1gI8[HP]=aX3
+R2
+IL3@dVEl?aKIZdmaB2C@1W3
+R3
+R0
+w1787676758
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3_tb.v
+!i122 188
+L0 3 97
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sliding_window_3x3_tb.v|
+!i113 1
+R7
+R8
+vsobel_x
+R48
+!i10b 1
+!s100 [F4eN>n[?Djf?F0OjJCA32
+R2
+I[@H?fmhiW4=FfInmM4f2`1
+R3
+R0
+w1787677041
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x.v
+!i122 189
+R33
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x.v|
+!i113 1
+R7
+R8
+vsobel_x_tb
+R48
+!i10b 1
+!s100 :9EAYYVc5K6]D>D^4BPBC3
+R2
+I90nT;1:aeTG3c7aAZ6<`72
+R3
+R0
+w1787677054
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x_tb.v
+!i122 190
+R24
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_x_tb.v|
+!i113 1
+R7
+R8
+vsobel_y
+Z50 !s110 1787731467
+!i10b 1
+!s100 QmZ1Qf^8AT7SHNz<?KYPG0
+R2
+IBMS3Beo1RALX7dE>f7L=^1
+R3
+R0
+w1787677350
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y.v
+!i122 191
+R33
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y.v|
+!i113 1
+R7
+R8
+vsobel_y_tb
+R50
+!i10b 1
+!s100 ?FI_eb^?no2iZDC4F7P9A0
+R2
+IOKfNjRla3X3bcz2hXcKNQ1
+R3
+R0
+w1787677366
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y_tb.v
+!i122 192
+L0 3 61
+R5
+r1
+!s85 0
+31
+Z51 !s108 1787731467.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/sobel_y_tb.v|
+!i113 1
+R7
+R8
+vspi_integration_tb
+R50
+!i10b 1
+!s100 LNNbG0[0S_6jR;Lf@aLQ42
+R2
+ID?ch1JM;1ThK@1d1?O;]k3
+R3
+R0
+w1787594587
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_integration_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_integration_tb.v
+!i122 193
+L0 3 140
+R5
+r1
+!s85 0
+31
+R51
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_integration_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_integration_tb.v|
+!i113 1
+R7
+R8
+vspi_master
+R50
+!i10b 1
+!s100 ;:];G3UShGH0BYZKZ1EJ72
+R2
+IBej2GLLGa^n:^nHk@6O:I3
+R3
+R0
+w1787590330
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master.v
+!i122 194
+L0 1 95
+R5
+r1
+!s85 0
+31
+R51
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master.v|
+!i113 1
+R7
+R8
+vspi_master_tb
+R50
+!i10b 1
+!s100 N2^M5z^c?_1XUD:`ZkE6W0
+R2
+Ib[K`gQT2Ai^2bC]FJIQj@0
+R3
+R0
+w1787591462
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master_tb.v
+!i122 195
+L0 3 67
+R5
+r1
+!s85 0
+31
+R51
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_master_tb.v|
+!i113 1
+R7
+R8
+vspi_slave
+!s110 1787730382
+!i10b 1
+!s100 TWoDGKH?7SE=Of@@2RUl?0
+R2
+I;Gg:A[3bzB8[3<H6PLD_K1
+R3
+R0
+w1787592229
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave.v
+!i122 68
+L0 1 76
+R5
+r1
+!s85 0
+31
+!s108 1787730382.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave.v|
+!i113 1
+R7
+R8
+vspi_slave_tb
+Z52 !s110 1787731468
+!i10b 1
+!s100 IMfGZ4c>beNl_JZkL[jE72
+R2
+IbF@NBEaVgX3<zY:eHeCWG3
+R3
+R0
+w1787592246
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave_tb.v
+!i122 197
+L0 3 63
+R5
+r1
+!s85 0
+31
+R51
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/spi_slave_tb.v|
+!i113 1
+R7
+R8
+vsystem_top
+R44
+!i10b 1
+!s100 R9VnBc_^j_RYBZ^kHld:@0
+R2
+Id3OaX@UMXMeHBkheA=h631
+R3
+R0
+w1787726433
+8system_top.v
+Fsystem_top.v
+!i122 215
+L0 1 130
+R5
+r1
+!s85 0
+31
+R45
+!s107 system_top.v|
+!s90 -reportprogress|300|system_top.v|
+!i113 1
+R8
+vsystem_top_tb
+R44
+!i10b 1
+!s100 lU<eOFENJlFjI3DcX_[=h1
+R2
+ImAK873akP0K2nLOD9@BDl3
+R3
+R0
+w1787728387
+8system_top_tb.v
+Fsystem_top_tb.v
+!i122 216
+L0 3 210
+R5
+r1
+!s85 0
+31
+R45
+!s107 system_top_tb.v|
+!s90 -reportprogress|300|system_top_tb.v|
+!i113 1
+R8
+vthresholding
+R52
+!i10b 1
+!s100 :iB_TXWCeeGc1a2LOia5;2
+R2
+IEA98zjj^4O5_=0o5OI>DL0
+R3
+R0
+w1787677896
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding.v
+!i122 200
+R21
+R5
+r1
+!s85 0
+31
+Z53 !s108 1787731468.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding.v|
+!i113 1
+R7
+R8
+vthresholding_tb
+R52
+!i10b 1
+!s100 ]WARHD^P<8TD@gSD2:T1S3
+R2
+I3G[LHcZfc@oDMa1Ha^?on2
+R3
+R0
+w1787677907
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding_tb.v
+!i122 201
+L0 3 43
+R5
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/thresholding_tb.v|
+!i113 1
+R7
+R8
+vuart_controller
+R52
+!i10b 1
+!s100 Li_mW=mR`NB3EQM`=hBl43
+R2
+I8bozE[[ZA[He3=K8OWZ]73
+R3
+R0
+w1787588072
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller.v
+!i122 202
+L0 1 47
+R5
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller.v|
+!i113 1
+R7
+R8
+vuart_controller_tb
+R52
+!i10b 1
+!s100 dG`GW19Re@ga?[zeNH[YZ2
+R2
+IBVi:c]X99Pe3cb`>`2X>f1
+R3
+R0
+w1787588085
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller_tb.v
+!i122 203
+L0 3 66
+R5
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_controller_tb.v|
+!i113 1
+R7
+R8
+vuart_mmio
+Z54 !s110 1787731469
+!i10b 1
+!s100 IjO7:SZa3_M`GzQjHiYS12
+R2
+IhU;Ua`_FF;ezDN4UAN31P3
+R3
+R0
+w1787723266
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio.v
+!i122 204
+L0 1 46
+R5
+r1
+!s85 0
+31
+R53
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio.v|
+!i113 1
+R7
+R8
+vuart_mmio_tb
+R54
+!i10b 1
+!s100 0gO=z_@^4:0G_YU0XUF=63
+R2
+ITBFJ<Hh?IS6>55ATMK2i:3
+R3
+R0
+w1787723274
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio_tb.v
+!i122 205
+L0 3 86
+R5
+r1
+!s85 0
+31
+Z55 !s108 1787731469.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_mmio_tb.v|
+!i113 1
+R7
+R8
+vuart_peripheral
+R54
+!i10b 1
+!s100 X=z_L9^jhS<0olDRKcl?f3
+R2
+IK;AHD:kYiKR=@W5[KKzU]3
+R3
+R0
+w1787723855
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral.v
+!i122 206
+L0 1 58
+R5
+r1
+!s85 0
+31
+R55
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral.v|
+!i113 1
+R7
+R8
+vuart_peripheral_tb
+R54
+!i10b 1
+!s100 ^C@[@h[ljS2UT^aUdZ4HP3
+R2
+InG0:9]WbX0KQ35J]YFkSi0
+R3
+R0
+w1787723882
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral_tb.v
+!i122 207
+L0 3 59
+R5
+r1
+!s85 0
+31
+R55
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_peripheral_tb.v|
+!i113 1
+R7
+R8
+vuart_rx
+R54
+!i10b 1
+!s100 DRN21YF5lD^TP_MJDZG@60
+R2
+I3JhRKl<jCSd4ZVAlCiHS20
+R3
+R0
+w1787587738
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx.v
+!i122 208
+L0 1 127
+R5
+r1
+!s85 0
+31
+R55
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx.v|
+!i113 1
+R7
+R8
+vuart_rx_tb
+R54
+!i10b 1
+!s100 b;IKdBb;DUBChKLc:38;Y3
+R2
+Ijgh@a]z8keF?1cB:Nc<HP0
+R3
+R0
+w1787587760
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx_tb.v
+!i122 209
+L0 3 74
+R5
+r1
+!s85 0
+31
+R55
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_rx_tb.v|
+!i113 1
+R7
+R8
+vuart_tx
+Z56 !s110 1787731470
+!i10b 1
+!s100 7@ETnl>QQl`UIng3MbM=?1
+R2
+IlgNAn?ZinOzIGDOC>Sn:T2
+R3
+R0
+w1787368336
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx.v
+!i122 210
+L0 1 133
+R5
+r1
+!s85 0
+31
+R55
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx.v|
+!i113 1
+R7
+R8
+vuart_tx_tb
+R56
+!i10b 1
+!s100 z<:l`01hZ_SR2jJm=TU933
+R2
+If1Ra6iY:=YC0@^l:HGJSL1
+R3
+R0
+w1787368360
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx_tb.v
+!i122 211
+R10
+R5
+r1
+!s85 0
+31
+Z57 !s108 1787731470.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx_tb.v|
+!i113 1
+R7
+R8
+vvsync_href_handler
+Z58 !s110 1787731471
+!i10b 1
+!s100 UJQOb24^oEihag]nK1GCj3
+R2
+IQX]00TKh5UomFmB;A5]8O2
+R3
+R0
+w1787669695
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler.v
+!i122 212
+L0 1 56
+R5
+r1
+!s85 0
+31
+R57
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler.v|
+!i113 1
+R7
+R8
+vvsync_href_handler_tb
+R58
+!i10b 1
+!s100 e6:P0Dz^cEQkR?oBE;;Gm2
+R2
+ILZa8TcFf6b:fzL?_JgCI?3
+R3
+R0
+w1787669705
+8C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler_tb.v
+FC:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler_tb.v
+!i122 213
+L0 3 84
+R5
+r1
+!s85 0
+31
+!s108 1787731471.000000
+!s107 C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/vsync_href_handler_tb.v|
+!i113 1
+R7
+R8

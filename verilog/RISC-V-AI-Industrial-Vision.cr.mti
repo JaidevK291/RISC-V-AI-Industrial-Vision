@@ -1,0 +1,52 @@
+C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gate_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module basic_gates_tb
+
+Top level modules:
+	basic_gates_tb
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/and_gate.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/and_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/uart_tx.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/riscv_core.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/riscv_core.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/and_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/and_gate_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module and_gate_tb
+
+Top level modules:
+	and_gate_tb
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gates.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/Basic_gates.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module basic_gates
+
+Top level modules:
+	basic_gates
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/or_gate.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/or_gate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/i2c_master.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/or_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/verilog/or_gate_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module or_gate_tb
+
+Top level modules:
+	or_gate_tb
+
+} {} {}}

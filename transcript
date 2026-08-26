@@ -1,0 +1,10 @@
+vsim work.register_file_tb
+# vsim work.register_file_tb 
+# Start time: 07:04:44 on Aug 26,2026
+# ** Error: (vsim-3170) Could not find 'register_file_tb'.
+#         Searched libraries:
+#             C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision/work
+# Error loading design
+# End time: 07:04:44 on Aug 26,2026, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+cd C:/Users/Jaidev.k/OneDrive/RISC-V-AI-Industrial-Vision
